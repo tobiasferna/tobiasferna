@@ -1,3 +1,3 @@
 # Hi there👋
-![Tovia's GitHub stats](https://github-readme-stats.vercel.app/api?username=toviaferna&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toviaferna&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=toviaferna&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toviaferna&layout=compact)
 
